@@ -3,7 +3,7 @@ chatbot for ohchat
 
 created through IBM Watson
 
-endpoints:
+endpoints:  
 http://localhost:xxx/api/watson/session/  
 http://localhost:xxx/api/watson/session/message
 
